@@ -43,7 +43,7 @@ No external libraries are required.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-file-organizer.git
+git clone https://github.com/Normal-repo/python-file-organizer
 ```
 
 ### Navigate to the project folder
